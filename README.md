@@ -3,6 +3,6 @@ ProConscience is a text-based adventure game that follows the daily activities o
 
 Read more about ProCoscience here: https://devpost.com/software/proconscience
 
-The live site: https://asmitakarmakar.github.io/proConscience/
+The live site: https://asmitakarmakar.github.io/ProConscience/
 
 Winner of the 2021 WiCS Hackathon for Best Educational Hack!
